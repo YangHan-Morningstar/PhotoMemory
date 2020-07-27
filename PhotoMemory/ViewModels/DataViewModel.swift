@@ -16,18 +16,18 @@ class DataViewModel: ObservableObject {
             [
                 StackableItem(imageName: "hai1"),
                 StackableItem(imageName: "hai2"),
-                StackableItem(imageName: "hai3"),
+                StackableItem(imageName: "hai3")
             ],
             [
                 StackableItem(imageName: "feng1"),
                 StackableItem(imageName: "feng2"),
-                StackableItem(imageName: "feng3"),
+                StackableItem(imageName: "feng3")
             ],
             [
                 StackableItem(imageName: "gui1"),
                 StackableItem(imageName: "gui2"),
                 StackableItem(imageName: "gui3"),
-                StackableItem(imageName: "gui4"),
+                StackableItem(imageName: "gui4")
             ]
         ]
     }
